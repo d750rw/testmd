@@ -12,3 +12,7 @@
 </table>
 
 <h1 class="display-1">Display 1</h1>
+
+<script>
+    alert('hello');
+</script>
